@@ -1,0 +1,15 @@
+{
+	"name": "har01-adf-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d3df74c-7b88-42a4-8e2b-d13e7077ae6b",
+		"tenantId": "dfc529da-ccc4-45ab-a553-70277e5ac3ad"
+	}
+}
