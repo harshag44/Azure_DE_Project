@@ -1,0 +1,15 @@
+{
+	"name": "azp01datafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8cc24a3-050e-4dec-a33b-6bb0891c17a5",
+		"tenantId": "dfc529da-ccc4-45ab-a553-70277e5ac3ad"
+	}
+}
